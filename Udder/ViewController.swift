@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 
     override func viewDidDisappear(_ animated: Bool) {
         //mmmk
+        print("This is... A STATE OF EMERGENCY")
     }
 
 }
